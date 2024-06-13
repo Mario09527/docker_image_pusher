@@ -1,2 +1,1 @@
-nginx
-funcman/115pc:latest
+CENTOS:latest
